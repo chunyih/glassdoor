@@ -1,0 +1,44 @@
+input {
+  position: fixed;
+}
+
+
+.item1 {
+  top: 30px;
+}
+
+.item2 {
+  top: 60px;
+}
+
+.item3 {
+  top: 90px;
+}
+
+.item4 {
+  top: 120px;
+}
+
+.item5 {
+  top: 150px;
+}
+
+.item6 {
+  top: 180px;
+}
+
+.item7 {
+  top: 210px;
+}
+
+.item8 {
+  top: 240px;
+}
+
+.item9 {
+  top: 270px;
+}
+
+.item10 {
+  top: 300px;
+}
